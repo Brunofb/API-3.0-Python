@@ -44,22 +44,3 @@ settings.update(
 
 
 setup(**settings)
-
-
-
-
-# # -*- coding: utf-8 -*-
-# from setuptools import setup
-
-# setup(
-#     name='cieloApi3',
-#     version='0.1.1',
-#     url='',
-#     license='MIT License',
-#     author='Thiago Malaquias',
-#     author_email='',
-#     keywords='api3.0 cielo python sdk ecommerce',
-#     description=u'',
-#     packages=['cielo.api30'],
-#     install_requires=['requests'],
-# )

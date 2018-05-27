@@ -38,6 +38,9 @@ Para criar um pagamento simples com cartão de crédito com o SDK, basta fazer:
 O API-3.0 Python Cielo pode ser facilmente instalado com o comando a seguir:
 ```bash
 pip install cieloApi3
+
+pip install -e git+git://github.com/Brunofb/API-3.0-Python.git#egg=cieloApi3
+
 ```
 
 ## Exemplos
